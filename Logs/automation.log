@@ -1,0 +1,269 @@
+21:43:08.539 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+21:43:10.786 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+21:43:11.217 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+21:43:11.305 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+21:43:13.017 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+21:43:13.046 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+21:43:13.356 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+21:43:14.944 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+21:43:15.046 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+21:43:15.558 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+21:43:15.600 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+21:43:15.640 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+21:43:16.291 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+21:43:19.404 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+21:43:19.429 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+21:43:22.136 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+21:43:22.275 [main] INFO  testCases.TC_001_RegisterUser - 16. Verify that 'Logged in as username' is visible
+21:43:23.702 [main] INFO  testCases.TC_001_RegisterUser - 17. Click 'Delete Account' button
+21:43:25.358 [main] INFO  testCases.TC_001_RegisterUser - 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
+21:54:37.506 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+21:54:40.162 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+21:54:40.664 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+21:54:40.729 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+21:54:43.248 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+21:54:43.304 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+21:54:43.918 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+21:54:47.259 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+21:54:47.359 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+21:54:47.798 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+21:54:47.837 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+21:54:47.878 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+21:54:48.669 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+21:54:51.472 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+21:54:51.504 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+21:54:54.211 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+21:54:54.318 [main] INFO  testCases.TC_001_RegisterUser - 16. Verify that 'Logged in as username' is visible
+21:54:56.679 [main] INFO  testCases.TC_001_RegisterUser - 17. Click 'Delete Account' button
+21:54:58.596 [main] INFO  testCases.TC_001_RegisterUser - 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
+22:02:36.728 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+22:02:38.743 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+22:02:39.218 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+22:02:39.348 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+22:02:41.967 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+22:02:41.998 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+22:02:42.297 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+22:02:43.833 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+22:02:43.876 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+22:02:44.446 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+22:02:44.484 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+22:02:44.524 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+22:02:45.161 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+22:02:47.696 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+22:02:47.742 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+22:02:50.364 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+22:02:50.412 [main] INFO  testCases.TC_001_RegisterUser - 16. Verify that 'Logged in as username' is visible
+22:02:52.124 [main] INFO  testCases.TC_001_RegisterUser - 17. Click 'Delete Account' button
+22:02:54.060 [main] INFO  testCases.TC_001_RegisterUser - 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
+22:06:04.118 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+22:06:06.558 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+22:06:07.408 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+22:06:07.481 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+22:06:09.453 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+22:06:09.480 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+22:06:09.800 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+22:06:11.298 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+22:06:11.360 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+22:06:11.892 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+22:06:11.938 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+22:06:11.992 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+22:06:12.885 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+22:06:15.268 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+22:06:15.293 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+22:06:17.091 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+22:07:37.351 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+22:07:39.727 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+22:07:40.208 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+22:07:40.304 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+22:07:41.724 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+22:07:41.760 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+22:07:42.109 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+22:07:43.847 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+22:07:43.888 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+22:07:44.549 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+22:07:44.633 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+22:07:44.689 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+22:07:45.337 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+22:07:48.004 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+22:07:48.032 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+22:07:50.242 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+09:25:23.443 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+09:25:27.503 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+09:25:28.011 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+09:25:28.102 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+09:25:30.027 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+09:25:30.056 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+09:25:30.377 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+09:25:32.900 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+09:25:32.927 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+09:25:33.401 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+09:25:33.439 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+09:25:33.476 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+09:25:34.110 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+09:25:36.002 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+09:25:36.025 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+09:25:38.190 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+09:29:23.853 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+09:29:27.004 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+09:29:27.523 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+09:29:27.598 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+09:29:32.688 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+09:29:32.715 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+09:29:33.002 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+09:29:35.735 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+09:29:35.765 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+09:29:36.271 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+09:29:36.311 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+09:29:36.350 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+09:29:37.024 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+09:29:38.736 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+09:29:38.759 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+09:29:41.320 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+09:34:38.942 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+09:34:40.664 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+09:34:41.262 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+09:34:41.358 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+09:34:44.528 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+09:34:44.557 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+09:34:44.868 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+09:34:48.025 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+09:34:48.054 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+09:34:48.566 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+09:34:48.604 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+09:34:48.642 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+09:34:49.357 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+09:34:51.616 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+09:34:51.637 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+09:34:54.011 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+09:41:17.371 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+09:41:20.674 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+09:41:21.229 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+09:41:21.324 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+09:41:23.329 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+09:41:23.355 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+09:41:23.606 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+09:41:27.558 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+09:41:27.585 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+09:41:28.115 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+09:41:28.156 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+09:41:28.197 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+09:41:28.855 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+09:41:31.101 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+09:41:31.124 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+09:41:33.730 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+09:43:25.271 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+09:43:28.373 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+09:43:28.904 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+09:43:29.019 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+09:43:31.740 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+09:43:31.766 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+09:43:32.039 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+09:43:35.514 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+09:43:35.543 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+09:43:36.024 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+09:43:36.062 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+09:43:36.103 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+09:43:36.833 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+09:43:39.135 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+09:43:39.158 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+09:43:42.189 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+10:11:22.474 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+10:11:27.461 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+10:11:27.974 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+10:11:28.071 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+10:11:30.368 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+10:11:30.397 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+10:11:30.656 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+10:11:32.852 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+10:11:32.887 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+10:11:33.479 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+10:11:33.530 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+10:11:33.568 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+10:11:34.269 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+10:11:36.088 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+10:11:36.113 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+10:11:38.461 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+10:19:05.732 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+10:19:08.708 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+10:19:09.247 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+10:19:09.362 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+10:19:11.066 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+10:19:11.095 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+10:19:11.439 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+10:19:13.373 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+10:19:13.405 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+10:19:13.954 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+10:19:13.992 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+10:19:14.031 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+10:19:14.721 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+10:19:17.120 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+10:19:17.146 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+10:19:20.266 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+11:01:21.118 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+11:01:23.798 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+11:01:24.225 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+11:01:24.323 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+11:01:26.155 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+11:01:26.182 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+11:01:26.453 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+11:01:28.559 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+11:01:28.587 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+11:01:29.076 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+11:01:29.115 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+11:01:29.156 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+11:01:29.812 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+11:01:32.872 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+11:01:32.894 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+11:01:34.860 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+11:07:06.683 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+11:07:10.387 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+11:07:10.862 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+11:07:10.945 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+11:07:13.484 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+11:07:13.514 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+11:07:13.794 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+11:07:15.876 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+11:07:15.901 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+11:07:16.422 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+11:07:16.461 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+11:07:16.499 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+11:07:17.207 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+11:07:19.678 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+11:07:19.701 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+11:07:22.013 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+11:07:22.036 [main] INFO  testCases.TC_001_RegisterUser - 16. Verify that 'Logged in as username' is visible
+11:07:23.992 [main] INFO  testCases.TC_001_RegisterUser - 17. Click 'Delete Account' button
+11:07:26.707 [main] INFO  testCases.TC_001_RegisterUser - 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
+11:09:04.846 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+11:09:07.462 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+11:09:07.949 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+11:09:08.016 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+11:09:10.485 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+11:09:10.511 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+11:09:10.795 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+11:09:13.022 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+11:09:13.055 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+11:09:13.595 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+11:09:13.634 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+11:09:13.672 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+11:09:14.331 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+11:09:14.388 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+11:10:32.359 [main] INFO  testCases.TC_001_RegisterUser - 1. Launch browser
+11:10:34.976 [main] INFO  testCases.TC_001_RegisterUser -  2. Navigate to url 'http://automationexercise.com'
+11:10:35.432 [main] INFO  testCases.TC_001_RegisterUser - TC_001_RegisterUser started
+11:10:35.489 [main] INFO  testCases.TC_001_RegisterUser - 3: Verifed that home page is visible successfully
+11:10:37.488 [main] INFO  testCases.TC_001_RegisterUser - 4: Click on 'Signup / Login' button
+11:10:37.517 [main] INFO  testCases.TC_001_RegisterUser - 5: Verifed 'New User Signup!' is visible
+11:10:37.784 [main] INFO  testCases.TC_001_RegisterUser - 6: Enter name and email address
+11:10:39.871 [main] INFO  testCases.TC_001_RegisterUser - 7. Click 'Signup' button
+11:10:39.896 [main] INFO  testCases.TC_001_RegisterUser - 8: Verify that 'ENTER ACCOUNT INFORMATION' is visible
+11:10:40.410 [main] INFO  testCases.TC_001_RegisterUser - 9. Fill details: Title, Name, Email, Password, Date of birth
+11:10:40.449 [main] INFO  testCases.TC_001_RegisterUser - 10. Select checkbox 'Sign up for our newsletter!
+11:10:40.497 [main] INFO  testCases.TC_001_RegisterUser - 11. Select checkbox 'Receive special offers from our partners!'
+11:10:41.255 [main] INFO  testCases.TC_001_RegisterUser - 12. Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number
+11:10:44.268 [main] INFO  testCases.TC_001_RegisterUser - 13. Click 'Create Account button
+11:10:44.290 [main] INFO  testCases.TC_001_RegisterUser - 14. Verify that 'ACCOUNT CREATED!' is visible
+11:10:47.712 [main] INFO  testCases.TC_001_RegisterUser - 15. Click 'Continue' button
+11:10:47.736 [main] INFO  testCases.TC_001_RegisterUser - 16. Verify that 'Logged in as username' is visible
+11:10:49.560 [main] INFO  testCases.TC_001_RegisterUser - 17. Click 'Delete Account' button
+11:10:50.989 [main] INFO  testCases.TC_001_RegisterUser - 18. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
